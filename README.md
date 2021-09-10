@@ -10,8 +10,8 @@
 
 
 ### ReSTFul Routes
-GET /videos - index route READ
-GET /videos/:id - show route READ
-POST /videos - create route CREATE
-PATCH /videos/:id - update route UPDATE
-DELETE /videos/:id - destroy route DESTROY
+* GET /videos - index route READ
+* GET /videos/:id - show route READ
+* POST /videos - create route CREATE
+* PATCH /videos/:id - update route UPDATE
+* DELETE /videos/:id - destroy route DESTROY
